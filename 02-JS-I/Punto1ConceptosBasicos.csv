@@ -1,0 +1,14 @@
+"Variables 	                "; Una variable funciona como un bolsillo en el que se puede guardar información de acuerdo a lo
+                                ; que se desarrolle en el código, una variable puede almacenar el valor de un numero, o una
+"     			        "; cadena de caracteres, o un estado booleano (verdadero, falso).
+"Strings   	                "; Los strings son el tipo de variable en el que se pueden almacenar cadenas de caracteres
+                                ; imprimibles, es decir, aquellos que contienen letras, dígitos, signos de puntuación y 
+                                ; varios símbolos. 
+Funciones (argumentos, return)  ; Una función sirve como herramienta para generar una expresión deseada, usando las variables,
+                                ; por ejemplo, sumar dos variables numéricas es una función, y los argumentos de una función
+                                ; son todas las variables que interactúan en la función, como las dos variables de la suma del
+                                ; anterior ejemplo. Una función genera un resultado, este resultado debe retornarse con la
+                                ; declaración 'return'
+Declaraciones if                ; La declaración if se utiliza para realizar un condicional en el código, si una determinada
+                                ; condición es verdadera o falsa, se correrá el código correspondiente a cada condición.
+Valores booleanos (true, false) ; Sólo hay dos valores booleanos, verdadero o falso y se utilizan en los condicionales y funciones.
