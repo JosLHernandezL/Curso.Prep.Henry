@@ -1,0 +1,12 @@
+for	For nos permite ejecutar sentencias y expresiones repetidamente hasta que
+	se cumpla una condición que le hayamos dado. Para crear un for se debe 
+	declarar una variable, una condición y un incremento para esa variable. Esto
+	para definir cómo y hasta cuando repetir las acciones.
+&&,||,!	Los operadores AND (&&), OR (||) y NOT (!) son los principales operadores
+	lógicos y se utilizan para evaluar más de una expresión a la vez. En el caso de
+	AND, ambas expresiones deben ser verdaderas para que devuelva verdadero,
+	por el contrario, si sólo una de las dos o ninguna es verdadera, devolverá falso.
+	En OR, devolverá verdadero si alguna de las expresiones es verdadera o ambas,
+	si ninguna expresión es verdadera, devolverá falso. El operador NOT invertirá
+	el sentido lógico de la expresión, si una expresión falsa tiene el operador NOT,
+	ésta devolverá verdadero, si una expresión es verdadera, devolverá falso.
