@@ -1,0 +1,5 @@
+Arrays	Los arrays o arreglos son conjuntos de datos ordenados, esto permite guardar varios datos del mismo tipo en una sola variable.
+	Para manejar los datos de un dato en específico del arreglo se debe conocer la posición que ocupa el dato en el arreglo, esa
+	posición se conoce como índice, es importante saber que el primer dato de un arreglo es de índice cero, el segundo dato tiene
+	índice 1 y el último dato tiene índice del tamaño del arreglo menos 1, es decir, para un arreglo de 5 elementos, la posición del 
+	último elemento es de índice 4.
