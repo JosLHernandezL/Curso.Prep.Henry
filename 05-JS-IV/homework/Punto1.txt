@@ -1,0 +1,37 @@
+	Objetos: 
+	Podemos hacer una analogía con los arrays, los objetos tienen elementos como los
+	arrays. Ahora, mientras los arrays tienen indices, los objetos tienen claves y se 
+	denotan con strings.
+	Allí es donde se diferencia y se caracteríza un objeto, en que no hay un orden
+	específico numérico para cada uno de sus elementos, cada uno de estos tiene una
+	clave de referencia.
+	El índice es al elemento como la clave al valor. Es común hablar de pares 
+	clave-valor en los objetos e índice-elemento en los arrays.
+
+	Propiedades: 
+	Una propiedad de un objeto es, analógicamente hablando, un elemento de un
+        array, es decir, una propiedad tiene un identificador y un valor. Por ejemplo, 
+        un objeto persona puede tener las propiedades edad, genero y nombre y sus 
+        respectivos valores.
+	
+	Métodos:
+	Los métodos son funciones que determinan cómo va a responder un objeto, tienen 
+        argumentos y retornan expresiones o valores.
+	
+	Bucle for-in:
+	Este bucle es el "for" para los objetos, es decir, mientras en los arrays
+        utilizabamos el for declarando una variable numérica entera para que recorra
+        el array, en los objetos se declara una variable, seguido de in, y seguido
+        el nombre del objeto, en parentesis, y las expresiones en llaves tal como en
+        el for tradicional.
+	
+	Notación de puntos vs notación en corchetes: 
+	La notación de corchetes es la más conocida ya que así es como accedemos a los
+	valores de un elemento de un arreglo, en los objetos es la misma estructura, sólo 
+	que en vez del índice, se coloca la clave en comillas sencillas; por ejemplo,
+	objeto1['propiedad1'].
+        Para acceder a los valores de un objeto con la notación de punto, se escribe 
+        el nombre del objeto, seguido de un punto y el nombre de la propiedad; por 
+        ejemplo, objeto1.propiedad1. Es importante aclarar que en la notación de punto
+ 	sólo es valido escribir el nombre de la propiedad, no acepta variables.
+	 
