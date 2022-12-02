@@ -1,0 +1,6 @@
+ 
+ Prototype: Es una propiedad que tienen las clases, que permite a los objetos que 
+            tienen heredadas las propiedades de la clase, acceder a dichas propiedades
+	    o métodos.
+ Constructores (de Clases): Un constructor es un objeto prototipo, es la plantilla que
+            contiene propiedades que se heredan con otros objetos.
