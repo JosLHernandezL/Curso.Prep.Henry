@@ -1,0 +1,133 @@
+.main {
+    position: relative;
+    height: 29.7cm;
+    width: 21cm;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    border: solid black;
+    border-width: 1px;
+}
+#ColIzq {
+    position: absolute;
+    top: 0cm;
+    left: 0cm;
+    height: 29.7cm;
+    width: 6.21cm; 
+    padding-left: 0.395cm;
+    padding-right: 0.395cm;
+    background-color: rgb(222, 222, 222);
+}
+#ColDer {
+    position: absolute;
+    top: 0cm;
+    left: 7cm;
+    height: 28.7cm;
+    width: 12.25cm; 
+    padding-left: 0.75cm;
+    padding-right: 1cm;
+    padding-top: 1cm;
+}
+img {
+    height: 6.21cm;
+    width: 6.21cm;
+    margin-top: 1.27cm;
+    margin-left: 0cm;
+    border-radius: 50%;
+    border: 0.75pt solid;
+    border-color: rgb(175, 171, 171);
+}
+#Nombres {
+    color: rgb(118, 113, 113);
+}
+hr.HR1 {
+    position: absolute;
+    margin-top: 0.1cm;
+    width: 8cm;
+    height: 3pt;
+    background-color: black;
+    border: 0cm;
+}
+h1 {
+    font-size: 22pt;
+    margin-top: 0cm;
+    margin-bottom: 0cm;
+}
+h2 {
+    font-size: 14pt;
+    margin-top: 0cm;
+    margin-bottom: 15px;
+}
+h3 {
+    color: rgb(64, 64, 64);
+    font-size: 11pt;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+h4 {
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 10pt;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+ul {
+    list-style: '\2756   ';
+    color: rgb(64, 64, 64);
+    margin-left: 0;
+    padding-left: 1.5em;
+    font-size: 10pt;
+    text-align: justify;
+}
+p {
+    color: rgb(64, 64, 64);
+    font-size: 10pt;
+    text-align: justify;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+#ul1 {
+    list-style: '\1f4de   ';
+    color: rgb(64, 64, 64);
+    margin-left: 0;
+    padding-left: 2em;
+    font-size: 10pt;
+    text-align: justify;
+}
+#ul2 {
+    list-style: '\1f4e7   ';
+    color: rgb(64, 64, 64);
+    margin-left: 0;
+    padding-left: 2em;
+    font-size: 10pt;
+    text-align: justify;
+}
+#ul3 {
+    list-style: '\33cc   ';
+    color: rgb(64, 64, 64);
+    margin-left: 0;
+    padding-left: 2em;
+    font-size: 10pt;
+    text-align: justify;
+}
+#Barra {
+    height: 0.2cm;
+    width: 4cm;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-start-start-radius: 0.1cm 0.1cm;
+    border-start-end-radius: 0.1cm 0.1cm;
+    border-end-start-radius: 0.1cm 0.1cm;
+    border-end-end-radius: 0.1cm 0.1cm;
+    background-color: rgb(64, 64, 64);
+   }
+#contorno{
+    height: 0.2cm;
+    width: 6cm;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-start-start-radius: 0.1cm 0.1cm;
+    border-start-end-radius: 0.1cm 0.1cm;
+    border-end-start-radius: 0.1cm 0.1cm;
+    border-end-end-radius: 0.1cm 0.1cm;
+    background-color: white;
+   }
